@@ -1,3 +1,13 @@
 / A place for map ideas: 
 
-Testing testing 123
+A general haunted theme maybe, or a newly discovered planet which has strange non human built structures? let me know what you think
+Might need a story to stick to, so we can change prefabs/monuments to suite it better
+
+Some monument ideas:
+
+An overseer type thing who watches the over the map from a bunker or something, tons of cameras in map tie into this bunker
+-bunker will require two swipes of redcard, entrance must be hidden and/or difficult to get into
+-bunker must have scientists and other security and possibly traps
+
+Pretty much customise every prefab/monument to the theme/story behind the map
+-Could have a central spawn point depending on what theme we go for
