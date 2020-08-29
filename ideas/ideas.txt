@@ -11,3 +11,5 @@ An overseer type thing who watches the over the map from a bunker or something, 
 
 Pretty much customise every prefab/monument to the theme/story behind the map
 -Could have a central spawn point depending on what theme we go for
+
+/ Map idea seems pretty cool! - Squiz
